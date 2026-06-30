@@ -58,3 +58,11 @@ The simpler Logistic Regression model outperformed the complex tree-based ensemb
 
 ## 🤝 Acknowledgment & Credits
 This project was initially developed as a collaborative group work with my team members.Later, I independently enhanced the project by resolving data leakage issues, fixing the feature scaling pipeline, balancing the classes using SMOTE, and re-evaluating the model benchmarks to achieve these accurate results.
+
+
+## 📊 Live Interactive Dashboard
+You can interact with the live project dashboard, switch between models, and explore the benchmark results directly from your browser:
+
+👉 [Click Here to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjFiODYxNDEtOWM4MC00YWE2LWI3ZjEtNTFkZmQyMzc0N2MyIiwidCI6Ijc5YTA1N2ZiLWIwZDUtNDRkZC04ZjkwLTBiZjcxNTFmNWMzZiIsImMiOjl9)
+
+
